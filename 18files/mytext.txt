@@ -1,0 +1,2 @@
+This is the content of the file that we are going to create 
+ Gosh it must have lorem ipsum to write the content
